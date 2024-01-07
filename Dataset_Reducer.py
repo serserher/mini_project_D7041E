@@ -54,4 +54,3 @@ ANNOTS_PATH_REDUCED_TEST = os.path.sep.join([BASE_PATH, "Annotations_Reduced_Tes
 output_folder_a = ANNOTS_PATH_REDUCED_TEST
 output_folder_i = IMAGES_PATH_REDUCED_TEST
 
-filter_annotations(input_folder_a, output_folder_a, input_folder_i, output_folder_i, limit_number = 10)
