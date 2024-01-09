@@ -14,3 +14,5 @@ The Dataset is gotten from: http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index
 
 We are in fact using two Datasets, the full version of the downloaded one, and a reduced version that only includes a certain kind of samples with only one object per sample to be detected.
 
+In order to replicate the results, just clone our repository, download the Dataset and place the folder "VOC2012" in the same folder as the cloned repo (same level as the scripts, so that the directories are reachable without having to change anything in the code), and perform the reduction of the Dataset with the script for reducing the original Dataset.
+
