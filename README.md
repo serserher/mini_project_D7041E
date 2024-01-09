@@ -1,6 +1,10 @@
  # Mini project D7041E: 
 
-# Group 33
+# Group 33, see the members below:
+
+- Sergio Serrano Hernández (serser-1): serser-1@gmail.com
+- Luna Alvarez Redondo (lunlva-3): lunlva-3@student.ltu.se 
+- Alejandro Carrillo Cerdá (alecar-3): alecar-3@student.ltu.se 
 
 For our project, we have decided we are going to compare the performance of two different object detection algorithm approaches. For the first one, we are going to create our own network using PyTorch, while for the second one, will use an already existing out-of-the-box architecture: YoloV3. Along the project, we are also going to use two datasets as we strive to get the maximum grade, i.e: 5 - Using two datasets and two different algorithms.
 
